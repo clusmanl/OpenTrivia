@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OpenTrivia</string>
+    <string name="opentrivia">OpenTrivia</string>
+    <string name="play">Quick Game</string>
+    <string name="goodAnswerText">The good answer was:</string>
+    <string name="categ_game">Category Game</string>
+    <string name="title_activity_category_list">CategoryListActivity</string>
+    <string name="categListText">Category List</string>
+</resources>
