@@ -1,7 +1,0 @@
-#Internal package file, do not edit.
-#Sun Jul 21 17:58:16 CEST 2019
-0.baseType=DIRECTORY
-0.base=C\:\\Users\\clusm\\AndroidStudioProjects\\OpenTrivia\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
-0.path=classes.dex
-0.set=DEX
-count=1
