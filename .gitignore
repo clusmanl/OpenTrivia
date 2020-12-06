@@ -1,0 +1,8 @@
+# Generated folders
+/app/build
+/app/debug
+
+# Android Studio
+/local.properties
+/.idea
+/.gradle
